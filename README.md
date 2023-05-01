@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-# movieflix
-=======
 # MovieFlix
 
 Nosso agradecimento a:
-Sergio Danilo Jr.
+
+	Sergio Danilo Jr.
 
 ## Requisitos
 
@@ -52,4 +50,3 @@ Sergio Danilo Jr.
 ```bash 
     $ docker rm -f $(docker ps -a -q)
 ```
->>>>>>> master
